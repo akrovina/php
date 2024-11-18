@@ -19,5 +19,3 @@ Tento projekt ukazuje několik způsobů, jak předat hodnotu ze skriptu `a.php`
 1. Umístěte soubory na webový server podporující PHP.
 2. Otevřete `a.php` v prohlížeči.
 3. Vyzkoušejte různé metody odeslání hodnoty na `b.php`.
-
-## Struktura projektu
